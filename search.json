@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Data Science Portfolio\nExplore my work across statistical modeling, machine learning, and reproducible analysis.\n\nKSU Analytics Day Spring 2026"
+  },
+  {
     "objectID": "projects/ksu_analyticsday_spring2026.html",
     "href": "projects/ksu_analyticsday_spring2026.html",
     "title": "KSU Analytics Day Spring 2026",
@@ -19,12 +26,5 @@
     "title": "KSU Analytics Day Spring 2026",
     "section": "Full Notebook",
     "text": "Full Notebook\nhttps://raw.githubusercontent.com/charlestlane/ksu_analyticsday_spring2026/main/code/DATA4990.Bresko.Lane.Treangen.Analysis.ipynb\n:execute: true"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Data Science Portfolio\nExplore my work across statistical modeling, machine learning, and reproducible analysis.\n\nKSU Analytics Day Spring 2026"
   }
 ]
