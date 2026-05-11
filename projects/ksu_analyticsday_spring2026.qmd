@@ -1,6 +1,5 @@
 ---
 title: "KSU Analytics Day 2026"
-execute: true
 ---
 
 # KSU Analytics Day 2026 Project

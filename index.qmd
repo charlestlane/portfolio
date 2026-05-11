@@ -2,8 +2,19 @@
 title: "Welcome"
 ---
 
-# Data Science Portfolio
+# Charles Lane  
+### Data Scientist • Analyst • Researcher
 
-Explore my work across statistical modeling, machine learning, and reproducible analysis.
+Welcome to my portfolio — a collection of analytics, modeling, and data science projects.
 
+---
+
+## Connect
+- [LinkedIn →](https://www.linkedin.com/in/charlestlane)
+- [<i class="bi bi-linkedin"></i> LinkedIn](https://www.linkedin.com/in/charlestlane)
+- [<i class="bi bi-linkedin" style="font-size: 1.5rem;"></i>](https://www.linkedin.com/in/charlestlane)
+- <a class="btn btn-primary" href="https://www.linkedin.com/in/charlestlane" target="_blank">Connect on LinkedIn</a>
+- [GitHub](https://github.com/charlestlane)
+
+## Projects
 - [KSU Analytics Day Spring 2026](projects/ksu_analyticsday_spring2026.qmd)
