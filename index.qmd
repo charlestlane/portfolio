@@ -1,0 +1,9 @@
+---
+title: "Welcome"
+---
+
+# Data Science Portfolio
+
+Explore my work across statistical modeling, machine learning, and reproducible analysis.
+
+- [KSU Analytics Day Spring 2026](projects/ksu_analyticsday_spring2026.qmd)

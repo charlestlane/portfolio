@@ -1,0 +1,13 @@
+---
+title: "KSU Analytics Day Spring 2026"
+---
+
+## Project Overview
+
+This project analyzes NCAA basketball data for the 2026 KSU Analytics Day competition.
+
+## Full Notebook
+
+```{embed}
+https://raw.githubusercontent.com/charlestlane/ksu_analyticsday_spring2026/main/code/DATA4990.Bresko.Lane.Treangen.Analysis.ipynb
+```

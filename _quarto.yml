@@ -1,0 +1,14 @@
+project:
+  type: website
+
+website:
+  title: "Charles Lane — Data Science Portfolio"
+  navbar:
+    left:
+      - text: "Projects"
+        href: projects/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
