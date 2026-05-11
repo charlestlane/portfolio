@@ -4,27 +4,27 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Data Science Portfolio\nExplore my work across statistical modeling, machine learning, and reproducible analysis.\n\nKSU Analytics Day Spring 2026"
+    "text": "Welcome to my portfolio — a collection of analytics, modeling, and data science projects.\n\n\n\n\n\nLinkedIn →\n LinkedIn\n\nConnect on LinkedIn\nGitHub\n\n\n\n\n\nKSU Analytics Day Spring 2026"
+  },
+  {
+    "objectID": "index.html#connect",
+    "href": "index.html#connect",
+    "title": "Welcome",
+    "section": "",
+    "text": "LinkedIn →\n LinkedIn\n\nConnect on LinkedIn\nGitHub"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Welcome",
+    "section": "",
+    "text": "KSU Analytics Day Spring 2026"
   },
   {
     "objectID": "projects/ksu_analyticsday_spring2026.html",
     "href": "projects/ksu_analyticsday_spring2026.html",
-    "title": "KSU Analytics Day Spring 2026",
+    "title": "KSU Analytics Day 2026",
     "section": "",
-    "text": "This project analyzes NCAA basketball data for the 2026 KSU Analytics Day competition."
-  },
-  {
-    "objectID": "projects/ksu_analyticsday_spring2026.html#project-overview",
-    "href": "projects/ksu_analyticsday_spring2026.html#project-overview",
-    "title": "KSU Analytics Day Spring 2026",
-    "section": "",
-    "text": "This project analyzes NCAA basketball data for the 2026 KSU Analytics Day competition."
-  },
-  {
-    "objectID": "projects/ksu_analyticsday_spring2026.html#full-notebook",
-    "href": "projects/ksu_analyticsday_spring2026.html#full-notebook",
-    "title": "KSU Analytics Day Spring 2026",
-    "section": "Full Notebook",
-    "text": "Full Notebook\nhttps://raw.githubusercontent.com/charlestlane/ksu_analyticsday_spring2026/main/code/DATA4990.Bresko.Lane.Treangen.Analysis.ipynb\n:execute: true"
+    "text": "KSU Analytics Day 2026 Project\nThis page renders the full notebook from the project repository.\nhttps://raw.githubusercontent.com/charlestlane/ksu_analyticsday_spring2026/main/code/DATA4990.Bresko.Lane.Treangen.Analysis.ipynb"
   }
 ]
