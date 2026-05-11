@@ -7,15 +7,30 @@ on:
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
 
+      # Install Quarto
       - uses: quarto-dev/quarto-actions/setup@v2
 
+      # Install Python
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.13"
+
+      # Install unified environment for all projects
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # Render the site (executes notebooks)
       - name: Render site
         run: quarto render
 
-      - name: Deploy to GitHub Pages
+      # Deploy to GitHub Pages
+      - name: Deploy
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages

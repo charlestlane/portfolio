@@ -10,4 +10,5 @@ This project analyzes NCAA basketball data for the 2026 KSU Analytics Day compet
 
 ```{embed}
 https://raw.githubusercontent.com/charlestlane/ksu_analyticsday_spring2026/main/code/DATA4990.Bresko.Lane.Treangen.Analysis.ipynb
+:execute: true
 ```

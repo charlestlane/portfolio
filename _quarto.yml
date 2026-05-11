@@ -12,3 +12,7 @@ format:
   html:
     theme: cosmo
     toc: true
+
+execute:
+  enabled: true
+  freeze: auto
