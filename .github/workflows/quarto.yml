@@ -3,6 +3,9 @@ name: Build and Deploy Quarto Site
 on:
   push:
     branches: [main]
+  
+permissions:
+  contents: write
 
 jobs:
   build-deploy:
@@ -34,3 +37,5 @@ jobs:
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
+        env:
+          GITHUB_TOKEN ${{ secrets.GITHUB_TOKEN }}
